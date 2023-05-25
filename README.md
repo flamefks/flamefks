@@ -1,9 +1,7 @@
 # Добро пожаловать ко мне на профиль 👋
 
 ## <img src = "https://github.com/flamefks/flamefks/blob/master/assets/free-icon-computer-worker-8859860.png" width="25">  Обо мне
-<div style="color:green">
 Меня зовут Андрей и я начинающий инженер по тестированию. Уже более 3-х лет я занимаюсь программированием на Python, и более полутора года активно изучаю тестирование. 
-</div>
 ## Технологии и инструменты
 <div class="tech">
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/python.png" width="35" height="35" title="python"/>&nbsp;
