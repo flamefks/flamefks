@@ -20,10 +20,12 @@
 <div id="Contacts">
 <a href="https://t.me/Flamingfks">
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/paper-plane.png" width="40" height="40" title="Telegram"/>&nbsp;
+<br>
 </a>
 <a href="https://vk.com/id208910289">
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/vk-1-logo-svgrepo-com.svg" width="40" height="40" title="Vk"/>&nbsp;
 </a>
+<br>
 <a href="https://spb.hh.ru/resume/e69ecfc1ff0bf1e9a60039ed1f575953356273">
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/head_hunter.png" width="40" height="40" title="hh.ru"/>
 </a>
