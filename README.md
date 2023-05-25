@@ -5,6 +5,7 @@
 ## Технологии и инструменты
 <div>
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/python.png" width="35" height="35" title="python" >&nbsp;
+<img src="https://github.com/pytest-dev/design/blob/master/pytest_logo/pytest_logo.svg" width="35" height="35" title="pytest">&nbsp;
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/pycharm-seeklogo.com.svg" width="35" height="35" title="pycharm">&nbsp;
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/mysql.png" width="35" height="35" title="mysql">&nbsp;
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/postman.svg" width="35" height="35" title="postman">&nbsp;
@@ -12,11 +13,8 @@
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/html-5.png" width="35" height="35" title="html5">&nbsp;
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/css.png" width="35" height="35" title="css">&nbsp;
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/Selenium_Logo.png" width="35" height="35" title="selenium">&nbsp;
-
-
-
+<img src="https://github.com/P-e-t-e-r-Parker/Charles/blob/main/assert/Logo.png" width="35" height="35" title="Charles">
 </div>
-
 
 
 
