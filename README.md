@@ -3,7 +3,7 @@
 ## <img src = "https://github.com/flamefks/flamefks/blob/master/assets/free-icon-computer-worker-8859860.png" width="25">  Обо мне
 Меня зовут Андрей и я начинающий инженер по тестированию. Уже более 3-х лет я занимаюсь программированием на Python, и более полутора года активно изучаю тестирование. 
 ## Технологии и инструменты
-<div>
+<div id="Tech" class="mydiv">
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/python.png" width="35" height="35" title="python"/>&nbsp;
 <img src="https://github.com/pytest-dev/design/blob/master/pytest_logo/pytest_logo.svg" width="35" height="35" title="pytest"/>&nbsp;
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/pycharm-seeklogo.com.svg" width="35" height="35" title="pycharm"/>&nbsp;
@@ -18,7 +18,7 @@
 </div>
 
 ## Мои контакты
-<div class="Contacts">
+<div id="Contacts">
 <a href="https://t.me/Flamingfks">
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/paper-plane.png" width="40" height="40" title="Telegram"/>&nbsp;
 </a>
