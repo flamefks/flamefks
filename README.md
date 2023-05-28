@@ -30,3 +30,8 @@
 </div>
 
 ## Алгоритмы
+<div class = "Algorithms">
+
+
+
+</div>
