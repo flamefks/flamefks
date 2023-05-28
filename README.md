@@ -23,10 +23,7 @@
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/paper-plane.png" width="40" height="40" title="Telegram"/>&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://vk.com/id208910289">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/vk-1-logo-svgrepo-com.svg" width="40" height="40" title="Vk"/>&nbsp;&nbsp;&nbsp;
-</a>
-<a href="https://spb.hh.ru/resume/e69ecfc1ff0bf1e9a60039ed1f575953356273">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/1643610824_4-papik-pro-p-hh-logotip-7svg.png" width="40" height="40" title="hh.ru"/>
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/vk-1-logo-svgrepo-com.svg" width="40" height="40" title="Vk"/>
 </a>
 </div>
 
@@ -36,7 +33,7 @@
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars.svg" width="40" height="40" title="CodeWars"/>&nbsp&nbsp;
 </a>
 <a href="https://leetcode.com/flaming_fks/">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/leetcode.svg" width="40" height="40" title="LeetCode" />
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/leetcode.svg" width="35" height="35" title="LeetCode" />
 </a>
 
 </div>
