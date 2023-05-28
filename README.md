@@ -36,7 +36,7 @@
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars-48.png" width="50" height="50" title="CodeWars"/>&nbsp&nbsp;
 </a>
 <a href="https://leetcode.com/flaming_fks/">
-<img src="https://asset.brandfetch.io/id8BaDflDb/idMTJ6fnty.png" width="40" height="40" title="LeetCode"/>
+<img src="https://asset.brandfetch.io/id8BaDflDb/idMTJ6fnty.png" width="40" height="40" title="LeetCode" style="top:10"/>
 </a>
 
 </div>
