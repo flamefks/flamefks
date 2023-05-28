@@ -26,14 +26,14 @@
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/vk-1-logo-svgrepo-com.svg" width="40" height="40" title="Vk"/>&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://spb.hh.ru/resume/e69ecfc1ff0bf1e9a60039ed1f575953356273">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/hh.png" width="40" height="40" title="hh.ru"/>
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/1643610824_4-papik-pro-p-hh-logotip-7svg.png" width="40" height="40" title="hh.ru"/>
 </a>
 </div>
 
 ## Алгоритмы
 <div class = "Algorithms">
 <a href="https://www.codewars.com/users/flame_fks">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars-48.png" width="45" height="45" title="CodeWars"/>&nbsp&nbsp;
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars.svg" width="40" height="40" title="CodeWars"/>&nbsp&nbsp;
 </a>
 <a href="https://leetcode.com/flaming_fks/">
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/leetcode.svg" width="40" height="40" title="LeetCode" />
