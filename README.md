@@ -1,7 +1,7 @@
 # Добро пожаловать ко мне на профиль 👋
 
 
-## <img src = "https://github.com/flamefks/flamefks/blob/master/assets/free-icon-computer-worker-8859860.png"> Обо мне
+## <img src = "https://github.com/flamefks/flamefks/blob/master/assets/free-icon-computer-worker-8859860.png" width = "25", height = "25"> Обо мне
 Меня зовут Андрей и я начинающий инженер по тестированию. Уже более 3-х лет я занимаюсь программированием на Python, и более полутора года активно изучаю тестирование. 
 ## Технологии и инструменты
 <div class="technologies">
@@ -36,7 +36,7 @@
 <img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars-48.png" width="40" height="40" title="CodeWars"/>&nbsp&nbsp;
 </a>
 <a href="https://leetcode.com/flaming_fks/">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/leetcode.svg" width="40" height="30" title="LeetCode"/>
+<img src="https://asset.brandfetch.io/id8BaDflDb/idMTJ6fnty.png" width="40" height="40" title="LeetCode"/>
 </a>
 
 </div>
