@@ -33,7 +33,7 @@
 ## Алгоритмы
 <div class = "Algorithms">
 <a href="https://www.codewars.com/users/flame_fks">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars-48.png" width="50" height="50" title="CodeWars"/>&nbsp&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars-48.png" width="45" height="45" title="CodeWars"/>&nbsp&nbsp;
 </a>
 <a href="https://leetcode.com/flaming_fks/">
 <img src="https://asset.brandfetch.io/id8BaDflDb/idMTJ6fnty.png" width="40" height="41" title="LeetCode" />
