@@ -1,6 +1,6 @@
 # Добро пожаловать ко мне на профиль 👋
 
-## <img src = "https://github.com/flamefks/flamefks/blob/master/assets/free-icon-computer-worker-8859860.png" width="25">  Обо мне
+## <img src = "https://github.com/flamefks/flamefks/blob/master/assets/free-icon-computer-worker-8859860.png" width="30" height = "30">  Обо мне
 Меня зовут Андрей и я начинающий инженер по тестированию. Уже более 3-х лет я занимаюсь программированием на Python, и более полутора года активно изучаю тестирование. 
 ## Технологии и инструменты
 <div class="technologies">
@@ -19,19 +19,24 @@
 ## Мои контакты
 <div class="Contacts">
 <a href="https://t.me/Flamingfks">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/paper-plane.png" width="40" height="40" title="Telegram"/>&nbsp;&nbsp;
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/paper-plane.png" width="40" height="40" title="Telegram"/>&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://vk.com/id208910289">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/vk-1-logo-svgrepo-com.svg" width="40" height="40" title="Vk"/>&nbsp;&nbsp;
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/vk-1-logo-svgrepo-com.svg" width="40" height="40" title="Vk"/>&nbsp;&nbsp;&nbsp;
 </a>
 <a href="https://spb.hh.ru/resume/e69ecfc1ff0bf1e9a60039ed1f575953356273">
-<img src="https://github.com/flamefks/flamefks/blob/master/assets/hh.png" width="40" height="40" title="hh.ru" style="color:'blue'"/>
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/hh.png" width="40" height="40" title="hh.ru"/>
 </a>
 </div>
 
 ## Алгоритмы
 <div class = "Algorithms">
-
+<a href="https://www.codewars.com/users/flame_fks">
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/icons8-codewars-48.png" width="40" height="40" title="CodeWars"/>&nbsp&nbsp;
+</a>
+<a href="https://leetcode.com/flaming_fks/">
+<img src="https://github.com/flamefks/flamefks/blob/master/assets/leetcode.svg" width="40" height="40" title="LeetCode"/>
+</a>
 
 
 </div>
